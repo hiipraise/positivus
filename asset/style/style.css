@@ -275,6 +275,11 @@ a {
   left: 20px;
   top: -60px;
 }
+.learn-btn {
+  position: relative;
+  top: -110px;
+  left: 20px;
+}
 .link2 .link2b {
   color: black;
   position: relative;
